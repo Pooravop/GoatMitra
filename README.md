@@ -1,10 +1,12 @@
-                                                                                  Goat Mitra
+                                                                                  **Goat Mitra**
 
 
 **GoatMitra Web Application**  
+
 The GoatMitra web application supports the livelihood program by providing a platform for managing data related to goat health and ownership.
 
-Key Features
+**Key Features**
+
 Two-Way Gateway: Separate portals for organizations and doctors.
 Doctor Portal: Allows doctors to add monthly health reports for goats or view existing reports.
 Organization Portal: Enables organizations to track the total number of goats, including those without homes, adults, and kids.
