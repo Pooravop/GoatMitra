@@ -1,4 +1,4 @@
-                                                                                  **Goat Mitra**
+                                                                                  Goat Mitra
 
 
 **GoatMitra Web Application**  
