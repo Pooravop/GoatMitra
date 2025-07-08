@@ -1,4 +1,5 @@
-                                                                                   ## 🐐 **Goat Mitra**
+                                                                                  Goat Mitra
+
 
 **GoatMitra Web Application**  
 The GoatMitra web application supports the livelihood program by providing a platform for managing data related to goat health and ownership.
